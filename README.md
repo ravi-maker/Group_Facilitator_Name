@@ -76,7 +76,7 @@ These points provide an overview of the considerations and challenges faced by a
 Give credit here.
 - This project was done by me as case study...
 - References if any...
-- This project was based on [this tutorial](https://www.kaggle.com/datasets/zaurbegiev/my-dataset).
+- This project was based on [this tutorial1](https://www.kaggle.com/datasets/zaurbegiev/my-dataset).[this tutorial2](https://www.kaggle.com/datasets/ankitkalauni/bank-loan-defaulter-prediction-hackathon/code)
 
 
 ## Contact
