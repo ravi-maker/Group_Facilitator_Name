@@ -48,7 +48,7 @@ The background sets the stage for understanding the context in which the company
 
 ## Conclusions
 #Conclusion 1 from the analysis
-- Here are a few key points based on the scenario you provided:
+- Here are a few key points based on the scenario we get:
 1.	Loan Approval Decision: The consumer finance company is responsible for making loan approval decisions based on an applicant's profile. This decision is crucial as it determines whether the company will provide the loan to the applicant.
 2.	Risk Assessment: The company needs to assess two types of risks associated with the loan approval decision. Firstly, there is the risk of approving the loan for an applicant who is not likely to repay it, which can result in financial loss for the company. Secondly, there is the risk of not approving the loan for an applicant who is likely to repay it, leading to a loss of potential business.
 3.	Applicant Profile Evaluation: The company evaluates the applicant's profile to assess their creditworthiness and repayment capacity. This evaluation typically involves considering factors such as income, employment history, credit score, debt-to-income ratio, and other relevant financial information.
