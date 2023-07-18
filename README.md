@@ -56,9 +56,9 @@ The background sets the stage for understanding the context in which the company
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python Version 3.8.2
+- juptyrelab Version 3.5.3
+- MS Excel
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
