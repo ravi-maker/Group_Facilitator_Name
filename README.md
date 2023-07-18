@@ -76,7 +76,7 @@ These points provide an overview of the considerations and challenges faced by a
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com](https://www.kaggle.com/datasets/zaurbegiev/my-dataset).
+- This project was based on [this tutorial](https://www.kaggle.com/datasets/zaurbegiev/my-dataset).
 
 
 ## Contact
