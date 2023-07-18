@@ -36,7 +36,7 @@ The background sets the stage for understanding the context in which the company
   2- Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
 # What is the dataset that is being used?
-
+- We are using two datasetet in this project which are in "csv" format and available in project's loan_doc folder which are "loan.csv" and "Data_Dictionary.xlsx" but our main dataset is "loan.csv" which have all information about loan for a person and "Data_Dictionary.xlsx" contain only full farm of "loan.csv" table header.
 
 
 
