@@ -47,7 +47,17 @@ The background sets the stage for understanding the context in which the company
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
+#Conclusion 1 from the analysis
+- Here are a few key points based on the scenario you provided:
+1.	Loan Approval Decision: The consumer finance company is responsible for making loan approval decisions based on an applicant's profile. This decision is crucial as it determines whether the company will provide the loan to the applicant.
+2.	Risk Assessment: The company needs to assess two types of risks associated with the loan approval decision. Firstly, there is the risk of approving the loan for an applicant who is not likely to repay it, which can result in financial loss for the company. Secondly, there is the risk of not approving the loan for an applicant who is likely to repay it, leading to a loss of potential business.
+3.	Applicant Profile Evaluation: The company evaluates the applicant's profile to assess their creditworthiness and repayment capacity. This evaluation typically involves considering factors such as income, employment history, credit score, debt-to-income ratio, and other relevant financial information.
+4.	Risk Mitigation: The company employs risk mitigation strategies to minimize the potential losses associated with loan approval decisions. This may include implementing rigorous screening processes, utilizing credit scoring models, and analysing historical data to identify patterns and indicators of default risk.
+5.	Decision Making: The company must strike a balance between approving loans to eligible and creditworthy applicants while minimizing the risk of default. This requires making informed and data-driven decisions based on a comprehensive assessment of the applicant's profile and the associated risks.
+6.	Compliance and Regulations: The consumer finance company must adhere to regulatory requirements and industry best practices when evaluating loan applications and making loan approval decisions. This ensures fair lending practices and protects both the company and the applicants.
+7.	Ongoing Monitoring: The risk assessment process doesn't end with the loan approval decision. The company should have mechanisms in place to monitor the repayment behaviour of borrowers throughout the loan tenure. This allows for early detection of potential default risks and enables appropriate actions to be taken, such as implementing collection efforts or modifying loan terms.
+These points provide an overview of the considerations and challenges faced by a consumer finance company when making loan approval decisions and managing associated risks.
+
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
