@@ -58,7 +58,15 @@ The background sets the stage for understanding the context in which the company
 7.	Ongoing Monitoring: The risk assessment process doesn't end with the loan approval decision. The company should have mechanisms in place to monitor the repayment behaviour of borrowers throughout the loan tenure. This allows for early detection of potential default risks and enables appropriate actions to be taken, such as implementing collection efforts or modifying loan terms.
 These points provide an overview of the considerations and challenges faced by a consumer finance company when making loan approval decisions and managing associated risks.
 
-- Conclusion 2 from the analysis
+- cleaning and sanitation
+-   Dropping unnecessary columns in a DataFrame
+    Changing the index of a DataFrame
+    Renaming columns to a more recognizable set of labels
+    Skipping unnecessary rows in a CSV file
+In given dataset we have 39717 rows × 111 columns after removing null value columns we get 39717 rows × 57 columns.
+But there are more other columns present with null values and after removing those null value rows we get 14 rows × 57 columns.
+In third attempt I remove all column with 0 value and get 14 rows × 49 columns.
+
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
