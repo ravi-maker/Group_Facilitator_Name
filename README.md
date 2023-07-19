@@ -67,8 +67,7 @@ These points provide an overview of the considerations and challenges faced by a
 But there are more other columns present with null values and after removing those null value rows we get 14 rows × 57 columns.
 In third attempt I remove all column with 0 value and get 14 rows × 49 columns.
 
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
