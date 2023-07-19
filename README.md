@@ -59,11 +59,11 @@ The background sets the stage for understanding the context in which the company
 These points provide an overview of the considerations and challenges faced by a consumer finance company when making loan approval decisions and managing associated risks.
 
 - cleaning and sanitation
--   Dropping unnecessary columns in a DataFrame
-    Changing the index of a DataFrame
-    Renaming columns to a more recognizable set of labels
-    Skipping unnecessary rows in a CSV file
-In given dataset we have 39717 rows × 111 columns after removing null value columns we get 39717 rows × 57 columns.
+-   1.Dropping unnecessary columns in a DataFrame
+    2.Changing the index of a DataFrame
+    3.Renaming columns to a more recognizable set of labels
+    4.Skipping unnecessary rows in a CSV file
+-In given dataset we have 39717 rows × 111 columns after removing null value columns we get 39717 rows × 57 columns.
 But there are more other columns present with null values and after removing those null value rows we get 14 rows × 57 columns.
 In third attempt I remove all column with 0 value and get 14 rows × 49 columns.
 
